@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wonderslate</string>
+    <string name="error_msg">File not found, Upload new</string>
+    <string name="Success">Upload Success</string>
+</resources>
